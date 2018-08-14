@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/30 00:00:14.000.578,=C:\Users\Hiromi Ogawa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/03 19:04:06.000.324,=C:\Users\Hiromi Ogawa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/03 19:04:39.000.012,C:\Users\Hiromi Ogawa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Freee\project2\Unit1.dfm</Transaction>
+    <Transaction>2017/11/03 19:04:39.000.012,C:\Users\Hiromi Ogawa\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Freee\project2\Unit1.pas</Transaction>
+    <Transaction>2017/11/03 19:05:09.000.106,C:\Users\Hiromi Ogawa\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Freee\project2\Project1.dproj</Transaction>
+    <Transaction>2017/11/03 19:05:16.000.898,=D:\Freee\project2\Unit2.pas</Transaction>
+    <Transaction>2017/11/03 22:22:26.000.857,=D:\Freee\project2\Unit3.pas</Transaction>
+    <Transaction>2017/11/04 13:35:12.000.049,=D:\Freee\project2\Unit4.pas</Transaction>
+    <Transaction>2017/11/04 13:46:24.000.961,=D:\Freee\project2\Unit5.pas</Transaction>
+    <Transaction>2017/11/04 14:02:39.000.743,=D:\Freee\project2\Unit6.pas</Transaction>
+    <Transaction>2017/11/04 14:04:43.000.938,=D:\Freee\project2\Unit6.pas</Transaction>
+    <Transaction>2017/11/04 14:05:52.000.881,=D:\Freee\project2\Unit6.pas</Transaction>
+    <Transaction>2017/11/04 14:10:48.000.077,=D:\Freee\project2\Unit6.pas</Transaction>
+    <Transaction>2017/11/04 15:01:22.000.697,=D:\Freee\project2\Unit6.pas</Transaction>
+    <Transaction>2017/11/04 17:14:28.000.337,=D:\Freee\project2\Unit6.pas</Transaction>
+    <Transaction>2017/11/04 17:20:00.000.850,=D:\Freee\project2\Unit6.pas</Transaction>
+    <Transaction>2017/11/04 17:21:25.000.171,=D:\Freee\project2\Unit7.pas</Transaction>
+    <Transaction>2017/11/04 17:21:35.000.096,=D:\Freee\project2\Unit7.pas</Transaction>
+    <Transaction>2017/11/04 17:44:20.000.690,=D:\Freee\project2\Unit8.pas</Transaction>
+    <Transaction>2017/11/04 17:55:26.000.372,=D:\Freee\project2\Unit9.pas</Transaction>
+    <Transaction>2017/11/04 20:36:06.000.120,=D:\Freee\project2\Unit8.pas</Transaction>
+    <Transaction>2017/11/04 20:36:56.000.685,=D:\Freee\project2\Unit9.pas</Transaction>
+    <Transaction>2017/11/04 20:39:02.000.679,=D:\Freee\project2\Unit10.pas</Transaction>
+    <Transaction>2017/11/04 20:52:23.000.096,=D:\Freee\project2\Unit11.pas</Transaction>
+  </Transactions>
+</BorlandProject>
